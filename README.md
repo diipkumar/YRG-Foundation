@@ -4,8 +4,8 @@ Save a HIV patient by creating a system that will enable donors to donate funds 
 ##Team members
 
 [Krish Munot] (https://github.com/KrishMunot) <br/>
-[Dilip Kumar] <br/>
-[Naresh Kumar]<br/>
+[Dilip Kumar] (https://github.com/diipkumar)<br/>
+[Naresh Kumar] (https://github.com/nareshmandoth)<br/>
 [Ipsita Prakash] (https://github.com/ipsi16) <br/>
 [Aravind Srivatsan] (https://github.com/aravindsrivats) <br/>
 [Anubhav Chaturvedi] (https://github.com/anubhavchaturvedi) <br/>
@@ -31,4 +31,4 @@ We propose to build web portal for them to :
 * Provide SMS and email notifications
 * Share on social media platforms 
 
-We plan to use JavaScript for the backend and web portal, Android application for volunteers and donors and Parse as a datastore. 
+We plan to use JavaScript for the backend and web portal, Android application for volunteers and donors, Parse as a datastore. 
